@@ -1,0 +1,7 @@
+C:\Users\Siwy\Desktop\qap\c#\Function1\bin\Debug\Function1.exe.config
+C:\Users\Siwy\Desktop\qap\c#\Function1\bin\Debug\Function1.exe
+C:\Users\Siwy\Desktop\qap\c#\Function1\bin\Debug\Function1.pdb
+C:\Users\Siwy\Desktop\qap\c#\Function1\obj\Debug\Function1.csprojAssemblyReference.cache
+C:\Users\Siwy\Desktop\qap\c#\Function1\obj\Debug\Function1.csproj.CoreCompileInputs.cache
+C:\Users\Siwy\Desktop\qap\c#\Function1\obj\Debug\Function1.exe
+C:\Users\Siwy\Desktop\qap\c#\Function1\obj\Debug\Function1.pdb
