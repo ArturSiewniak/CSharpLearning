@@ -1,0 +1,7 @@
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\bin\Debug\ControlStatement1.exe.config
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\bin\Debug\ControlStatement1.exe
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\bin\Debug\ControlStatement1.pdb
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\obj\Debug\ControlStatement1.csprojAssemblyReference.cache
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\obj\Debug\ControlStatement1.csproj.CoreCompileInputs.cache
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\obj\Debug\ControlStatement1.exe
+C:\Users\Siwy\Desktop\qap\c#\ControlStatement1\obj\Debug\ControlStatement1.pdb
