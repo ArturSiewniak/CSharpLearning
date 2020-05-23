@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\bin\Debug\ObjectClass1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\bin\Debug\ObjectClass1.exe
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\bin\Debug\ObjectClass1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\obj\Debug\ObjectClass1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\obj\Debug\ObjectClass1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\obj\Debug\ObjectClass1.exe
+C:\Users\Reaper\Desktop\QAP\c#\ObjectClass1\obj\Debug\ObjectClass1.pdb
