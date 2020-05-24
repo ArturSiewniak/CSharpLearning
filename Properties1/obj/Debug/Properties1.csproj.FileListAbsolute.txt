@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\bin\Debug\Properties1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\bin\Debug\Properties1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\bin\Debug\Properties1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\obj\Debug\Properties1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\obj\Debug\Properties1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\obj\Debug\Properties1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Properties1\obj\Debug\Properties1.pdb
