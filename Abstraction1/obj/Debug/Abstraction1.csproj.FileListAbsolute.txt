@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\bin\Debug\Abstraction1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\bin\Debug\Abstraction1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\bin\Debug\Abstraction1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\obj\Debug\Abstraction1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\obj\Debug\Abstraction1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Abstraction1\obj\Debug\Abstraction1.pdb
