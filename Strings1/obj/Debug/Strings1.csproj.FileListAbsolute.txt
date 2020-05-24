@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\bin\Debug\Strings1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\bin\Debug\Strings1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\bin\Debug\Strings1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\obj\Debug\Strings1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\obj\Debug\Strings1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\obj\Debug\Strings1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Strings1\obj\Debug\Strings1.pdb
