@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\bin\Debug\ExceptionHandling1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\obj\Debug\ExceptionHandling1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\obj\Debug\ExceptionHandling1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\obj\Debug\ExceptionHandling1.exe
+C:\Users\Reaper\Desktop\QAP\c#\ExceptionHandling1\obj\Debug\ExceptionHandling1.pdb
