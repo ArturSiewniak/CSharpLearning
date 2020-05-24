@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\bin\Debug\Inheritance1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\bin\Debug\Inheritance1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\obj\Debug\Inheritance1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\obj\Debug\Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\obj\Debug\Inheritance1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Inheritance1\obj\Debug\Inheritance1.pdb
