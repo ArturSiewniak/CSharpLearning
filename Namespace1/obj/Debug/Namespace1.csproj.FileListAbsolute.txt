@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\bin\Debug\Namespace1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\bin\Debug\Namespace1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\bin\Debug\Namespace1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\obj\Debug\Namespace1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\obj\Debug\Namespace1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\obj\Debug\Namespace1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Namespace1\obj\Debug\Namespace1.pdb
