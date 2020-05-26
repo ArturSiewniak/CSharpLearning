@@ -1,0 +1,7 @@
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\bin\Debug\Collections1.exe.config
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\bin\Debug\Collections1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\bin\Debug\Collections1.pdb
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\obj\Debug\Collections1.csprojAssemblyReference.cache
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\obj\Debug\Collections1.csproj.CoreCompileInputs.cache
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\obj\Debug\Collections1.exe
+C:\Users\Reaper\Desktop\QAP\c#\Collections1\obj\Debug\Collections1.pdb
